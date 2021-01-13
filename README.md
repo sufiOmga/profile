@@ -1,2 +1,2 @@
 # The Omga Wizard.
-<img src="images/web-logo.png">
+<img src="images/weblogo.png">
