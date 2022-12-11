@@ -1,2 +1,2 @@
-# The Omga Wizard.
+# Noel-Kun.
 <p>Copyright claimed<p>
